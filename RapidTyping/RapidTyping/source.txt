@@ -1,0 +1,7 @@
+hoge
+piyo
+soge
+Wisdom
+Black * Black
+hoge_piyo_meso
+$("hoge").onclick(function() {})

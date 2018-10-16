@@ -8,8 +8,10 @@
    random words
  */
 
-char words[TEST_COUNT][64] = {"ALAKAZAM!!", "OZUMANDIOUS", "TILTOWAIT!!"};
+char words[TEST_COUNT][64] = {"ALAKAZAM!!", "OZUMANDIOUS", "TILTOWAIT!!", "hoge", "piyo"};
 int current_test_index = 0;
+
+
 
 char* get_word() 
 {
